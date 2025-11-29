@@ -17,6 +17,7 @@ A comprehensive machine learning system for detecting financial fraud using supe
 - [Results & Visualizations](#results--visualizations)
 - [Key Features & Importance](#key-features--importance)
 - [Contributing](#contributing)
+- [Collaborators](#collaborators)
 
 ## Project Overview
 
@@ -268,6 +269,15 @@ CREATE TABLE transactions (
 ## Contributing
 
 Contributions are welcome! Please feel free to submit a Pull Request.
+
+## Collaborators
+
+**Chetan29-30** (Chetankumar Ganesh Mete)
+- GitHub: [@Chetan29-30](https://github.com/Chetan29-30)
+- Role: Co-Developer
+- Contributions: README documentation, project setup, and ML pipeline architecture
+
+
 
 ## Author
 
