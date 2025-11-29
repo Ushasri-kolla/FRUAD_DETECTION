@@ -272,7 +272,7 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 
 ## Collaborators
 
-**Chetan29-30** (Chetankumar Ganesh Mete)
+**Chetan29-30** (Chetankumar Ganesh Meshram)
 - GitHub: [@Chetan29-30](https://github.com/Chetan29-30)
 - Role: Co-Developer
 - Contributions: README documentation, project setup, and ML pipeline architecture
