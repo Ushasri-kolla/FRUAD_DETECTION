@@ -276,6 +276,11 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 - GitHub: [@Chetan29-30](https://github.com/Chetan29-30)
 - Role: Co-Developer
 - Contributions: README documentation, project setup, and ML pipeline architecture
+- 
+**tejaswinichauer-coder**
+- GitHub: [@tejaswinichauer-coder](https://github.com/tejaswinichauer-coder)
+- Role: Collaborator
+- Contributions: Code review and quality assurance
 
 
 
